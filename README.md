@@ -1,8 +1,10 @@
 # datasciencecoursera
 Course Project
 ## Course Project
+The objective is to consolidate all data in one tidy dataframe that can be analyzed easily. 
 
-For this project, first I loaded the data with the functions:
+In the process the following variables where created
+
 
 features<- Has the column names of the data
 
