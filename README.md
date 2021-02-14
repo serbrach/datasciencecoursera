@@ -1,10 +1,9 @@
 # datasciencecoursera
 Course Project
 ## Course Project
-The objective is to consolidate all data in one tidy dataframe that can be analyzed easily. 
+The objective is to consolidate all data from the mobile data in one tidy dataframe that can be analyzed easily.
 
 In the process the following variables where created
-
 
 features<- Has the column names of the data
 
@@ -22,6 +21,7 @@ x_train <- values obtained on device
 
 y_train <- activity performed by subject
 
+
 Then I proceed to merge the tables
 
 x_df<-Device data merged
@@ -30,7 +30,7 @@ subject_df<-subject data merged
 
 data_df<- all data combined
 
-Then I proceed to select the means and the standard deviation:
+After I proceed to select the means and the standard deviation:
 
 final_df<- Data frame with selected data
 
